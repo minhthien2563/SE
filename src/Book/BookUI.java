@@ -124,6 +124,7 @@ public class BookUI {
                         System.out.println(tab.render());
 
                         select = scanner.nextInt();
+                        scanner.nextLine();
 
                         if (select == 1) {
                             System.out.println("Hay nhap ten sach ban muon them?");

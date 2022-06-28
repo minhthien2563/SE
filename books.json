@@ -7,7 +7,6 @@
         "Introduce": "Sach nay la sach",
         "RemainingAmount": 1000
     },
-
     {
         "Title": "Minh Thien Book",
         "Author": "haha",
@@ -16,7 +15,6 @@
         "Introduce": "Sach nay la sach a?",
         "RemainingAmount": 500
     },
-
     {
         "Title": "lala",
         "Author": "Minh Thien",
@@ -24,5 +22,17 @@
         "Rating": "Tuyet voi",
         "Introduce": "Sach nay la sach a?",
         "RemainingAmount": 500
+    },
+    {
+        "Title": "",
+        "Author": "ooa",
+        "PublishingYear": 2022,
+        "RemainingAmount": 1000
+    },
+    {
+        "Title": "haha",
+        "Author": "oo",
+        "PublishingYear": 2022,
+        "RemainingAmount": 1000
     }
 ]
