@@ -1,0 +1,28 @@
+[
+    {
+        "Title": "Minh Thien Book",
+        "Author": "Minh Thien",
+        "PublishingYear": 2022,
+        "Rating": "Rat hay",
+        "Introduce": "Sach nay la sach",
+        "RemainingAmount": 1000
+    },
+
+    {
+        "Title": "Minh Thien Book",
+        "Author": "haha",
+        "PublishingYear": 2003,
+        "Rating": "Tuyet voi",
+        "Introduce": "Sach nay la sach a?",
+        "RemainingAmount": 500
+    },
+
+    {
+        "Title": "lala",
+        "Author": "Minh Thien",
+        "PublishingYear": 2003,
+        "Rating": "Tuyet voi",
+        "Introduce": "Sach nay la sach a?",
+        "RemainingAmount": 500
+    }
+]

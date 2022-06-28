@@ -1,0 +1,29 @@
+[
+
+    {
+        "Username": "abc",
+        "Password": "def",
+        "Roles": "Student"
+    },
+    {
+        "Username": "abc",
+        "Password": "der"
+    },
+    {
+        "Username": "abc",
+        "Password": "er"
+    },
+    {
+        "Username": "ade",
+        "Password": "te"
+    },
+    {
+        "Username": "ad",
+        "Password": "12"
+    },
+    {
+        "Username": "haha",
+        "Password": "kkk",
+        "Roles": "Librarian"
+    }
+]
